@@ -1,0 +1,12 @@
+[submodule "flang-driver"]
+	path = flang-driver
+	url = https://github.com/flang-compiler/flang-driver.git
+[submodule "openmp"]
+	path = openmp
+	url = https://github.com/llvm-mirror/openmp.git
+[submodule "flang"]
+	path = flang
+	url = https://github.com/flang-compiler/flang.git
+[submodule "llvm"]
+	path = llvm
+	url = https://github.com/flang-compiler/llvm.git
